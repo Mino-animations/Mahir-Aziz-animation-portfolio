@@ -1,18 +1,17 @@
 # Mahir-Aziz-animation-portfolio
 
-#### Mahir Aziz animation portfolio
+Hello there. I am a prospective 2D animator who has always loved the art of motion and combat. These things have always fascinated me a great deal. Giving life to art.
 # Project Title
 
 One Paragraph of project description goes here
 
-## Getting Started
+## a duel
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+In this piece I used animation to detail a duel between two characters. An evolution from what originally inspired me into this media.
 
-### Prerequisites
+### Pogo stick
 
-What things you need to install the software and how to install them
-
+This piece focuses on the basics of weight and motion having the character using a pogo stick.
 ```
 Give examples
 ```
